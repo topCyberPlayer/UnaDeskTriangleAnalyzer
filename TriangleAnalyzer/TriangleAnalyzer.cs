@@ -2,7 +2,7 @@
 
 namespace TriangleAnalyzer
 {
-    public class TriangleAnalyzer
+    public struct TriangleAnalyzer
     {
         public enum TriangleType
         {
